@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">The Racktrack</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_options">Options</string>
+    <string name="title_activity_play">Play</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_resources">Resources</string>
+    <string name="hyperlink"> Written by Inderpreet Rangi, Student in CMPT 276 (<a href="https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt276/home">https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt276/home)</a> </string>
+    <string name="resource1">Welcome screen image by Pinterest (<a href="https://www.pinterest.ca/pin/732046114406010983/">pinterest.ca)</a> </string>
+    <string name="resource2">Main menu image by Essentially Sports (<a href="https://www.essentiallysports.com/nascar-news-can-we-see-bmw-in-nascar-as-a-manufacturer-company-throws-in-a-slight-hint-about-a-possible-future-foray/">essentiallysports.com)</a> </string>
+    <string name="resource3">App Icon by IconScout (<a href="https://iconscout.com/icon/sport-car">iconscout.com)</a> </string>
+    <string name="resource4">Help screen image by Auto Evolution(<a href="https://www.autoevolution.com/cars/bmw-m5-competition-2020.html#aeng_bmw-m5-competition-2020-30l-v8-8at-625-hp">autoevolution.com)</a> </string>
+    <string name="resource5">Options screen image by Auto Week(<a href="https://www.autoweek.com/drives/g1770946/gallery-2015-bmw-m4-coupe-review-notes/">autoweek.com)</a> </string>
+    <string name="resource6">BMW logo by Wikipedia (<a href="https://en.wikipedia.org/wiki/BMW">en.wikipedia.org)</a> </string>
+    <string name="resource7">Question mark icon by Fav Png (<a href="https://favpng.com/png_view/button-question-mark-button-png/YCkvsujk">favpng.com)</a> </string>
+    <string name="resource8">Push to start icon by Clip Art Logo (<a href="https://www.clipartlogo.com/free/car-push-start.html">clipartlogo.com)</a> </string>
+    <string name="resource9">Settings icon by Free Icons Library (<a href="https://icon-library.com/icon/settings-gear-icon-10.html">icon-library.com)</a> </string>
+    <string name="resource10">Resource screen image by Trackworthy (<a href="https://www.wheels.ca/trackworthy-blogs/new-limited-edition-bmw-m4-cs-fills-gap-between-m4-and-m4-gts/">wheels.ca)</a> </string>
+    <string name="resource11">Play screen image by Scalextric Digital (<a href="https://scalextricdigital.weebly.com/8x4-layouts.html">scalextricdigital.weebly.com)</a> </string>
+    <string name="resource12">Sounds by FreeSound (<a href="https://freesound.org/">freesound.org)</a> </string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_size">
+        <item>4 rows x 6 columns</item>
+        <item>5 rows x 10 columns</item>
+        <item>6 rows x 15 columns</item>
+    </string-array>
+
+    <integer-array name = "logo_amount">
+        <item>6</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </integer-array>
+
+    <integer name="default_logo_amount">6</integer>
+    <string name="default_game_size">4 rows by 6 columns</string>
+</resources>
